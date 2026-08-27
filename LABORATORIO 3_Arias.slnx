@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LABORATORIO 3_Arias/LABORATORIO 3_Arias.vcxproj" />
+</Solution>
